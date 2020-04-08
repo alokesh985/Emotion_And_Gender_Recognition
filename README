@@ -4,8 +4,10 @@ README
 This project implements 2 CNN models to classify human facial emotions and human gender.
 
 Download the trained models from the links below :-
-  1. Emotion Classification Model : 
-  2. Gender Classification Model : 
+  1. Real Time Emotion Classification Model : https://drive.google.com/open?id=11_oS6_ZwNA0NVtrWJPoXhkQReSlDxNRm
+  2. Image Emotion Classification Model : https://drive.google.com/open?id=1v-TVohGXzULl9XcSCG0D7MqvKkADaijy
+  3. Real Time Gender Classification Model : https://drive.google.com/open?id=18nmEOaQip4-GAoRh3pIKE_ke5fBvQOgX
+  4. Image Gender Classification Model : https://drive.google.com/open?id=1cW5fUFyWmQuX-ObRX1BRtEcfg78aYIeE
   
 Put the trained models in the same directory as the other files.
 For eg, Put the emotion classification model in the same directory as the image or real time emotion classification files.
