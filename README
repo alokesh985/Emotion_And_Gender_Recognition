@@ -2,3 +2,10 @@ README
 
 
 This project implements 2 CNN models to classify human facial emotions and human gender.
+
+Download the trained models from the links below :-
+  1. Emotion Classification Model : 
+  2. Gender Classification Model : 
+  
+Put the trained models in the same directory as the other files.
+For eg, Put the emotion classification model in the same directory as the image or real time emotion classification files.
